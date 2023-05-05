@@ -29,7 +29,7 @@ https://sm-social-app.herokuapp.com/
 
 # Entity Relationship Diagram (ERD)
 
-![screenshot](https://github.com/IBUNHABIBU/ror-social-scaffold/blob/Milestone-1/docs/ERD.jpeg)
+![screenshot](https://github.com/IBUNHABIBU/ror-social-scaffold/blob/Milestone-1/docs/ErD.jpeg)
 
 
 ## Show your support
