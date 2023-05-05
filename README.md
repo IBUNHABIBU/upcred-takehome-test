@@ -10,8 +10,17 @@
     <p align="center"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="JavaScript" width="100" height="100"> </p>
   </a>
 
-  <h2 align="center"> TAKE HOME CHALLENGE </h2>
-  <h3 align="center">This is the template to replicate all api projects.</h3>
+  <h2 align="center"> UPCRED.AI TAKE HOME CHALLENGE </h2>
+  <h3 align="center">Contact book.</h3>
+
+## Features 
+Develop a suite of CRUD APIs for a contact book app
+Each contact should have a unique email address
+APIs should support adding/editing/deleting contacts
+Allow searching by name and email address
+Search should support pagination and should return 10 items by default per invocation
+Add unit tests and Integration tests for each functionality.
+Add basic authentication for the app. Use environment variables or basic auth(for rest APIs)
 
 ## Built with 
 * Ruby on Rails
