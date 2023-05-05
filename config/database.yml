@@ -85,5 +85,5 @@ test:
 production:
   <<: *default
   database: apitemplate_production
-  username: apitemplate
+  username: postgres
   password: <%= ENV["APITEMPLATE_DATABASE_PASSWORD"] %>
